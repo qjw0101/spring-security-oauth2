@@ -1,0 +1,9 @@
+com\xuexin\cuishou\domain\Operator.class
+com\xuexin\cuishou\utils\ApiData.class
+com\xuexin\cuishou\controller\OperatorController.class
+com\xuexin\cuishou\Application.class
+com\xuexin\cuishou\domain\OperatorRepository.class
+com\xuexin\cuishou\configs\SwaggerConfig.class
+com\xuexin\cuishou\controller\IndexController.class
+com\xuexin\cuishou\service\impl\OperatorServiceImpl.class
+com\xuexin\cuishou\service\IOperatorService.class
